@@ -24,19 +24,19 @@
 ## UI Design
 # Splash Screen
  ![img 9](Screenshot/9.png)
-# Dashboard
  ![img 10](Screenshot/10.png)
-# Interface Button Favoritku
  ![img 11](Screenshot/11.png)
-# Interface Button Terakhir dilihat
  ![img 12](Screenshot/12.png)
-# Interface Button Login
  ![img 13](Screenshot/13.png)
-# Interface Button Pengaturan
  ![img 14](Screenshot/14.png)
-# Interface buku yg ingin dibaca
  ![img 15](Screenshot/15.png)
-# Interface buku yang sedang dibaca
  ![img 16](Screenshot/16.png)
-# Interface jika menekan viewall
  ![img 17](Screenshot/17.png)
+ ![img 18](Screenshot/18.png)
+ ![img 19](Screenshot/19.png)
+ ![img 20](Screenshot/20.png)
+ ![img 21](Screenshot/21.png)
+ ![img 22](Screenshot/22.png)
+ ![img 23](Screenshot/23.png)
+ ![img 24](Screenshot/24.png)
+ ![img 25](Screenshot/25.png)
