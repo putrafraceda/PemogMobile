@@ -21,7 +21,7 @@
 # Interface buku yang sedang dibaca
  ![img 8](Screenshot/8.png)
 
-## Mockup
+## UI Design
 # Splash Screen
  ![img 9](Screenshot/9.png)
 # Dashboard
