@@ -22,21 +22,32 @@
  ![img 8](Screenshot/8.png)
 
 ## UI Design
-# Splash Screen
+#  Login
  ![img 9](Screenshot/9.png)
+# Interface Homepage
  ![img 10](Screenshot/10.png)
+# Interface Favoritku
  ![img 11](Screenshot/11.png)
+# Interface Terakhir Dilihat
  ![img 12](Screenshot/12.png)
+# Interface jika menekan view all (rekomendasi)
  ![img 13](Screenshot/13.png)
+# Interface jika menekan view all (Terbaik musim ini)
  ![img 14](Screenshot/14.png)
+# Interface Pengaturan
  ![img 15](Screenshot/15.png)
+# Interface jika menekan buku yang ingin dibaca
  ![img 16](Screenshot/16.png)
  ![img 17](Screenshot/17.png)
+# Interface jika sudah memilih buku
  ![img 18](Screenshot/18.png)
  ![img 19](Screenshot/19.png)
  ![img 20](Screenshot/20.png)
+# Interface jika kita menekan pilihan buku dari (Favortiku, Terakhir dilihat)
  ![img 21](Screenshot/21.png)
  ![img 22](Screenshot/22.png)
  ![img 23](Screenshot/23.png)
+# Sign Up
  ![img 24](Screenshot/24.png)
+# Forgot password
  ![img 25](Screenshot/25.png)
