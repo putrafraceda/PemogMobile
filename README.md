@@ -4,4 +4,7 @@
 # Kelas  : Ti.23.A4
 
 # STORYBOARD
-  ![img 1](Screenshot/1.png)
+![img 1](Screenshot/1.png)
+# Mockup 3d
+![img 2](Screenshot/2.png)
+![img 3](Screenshot/3.png)
