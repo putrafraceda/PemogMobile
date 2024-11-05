@@ -4,3 +4,4 @@
 # Kelas  : Ti.23.A4
 
 # STORYBOARD
+  ![img 1](Screenshot/1.png)
